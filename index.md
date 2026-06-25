@@ -1,5 +1,12 @@
-{% include navigation.html %}
+---
+layout: default
+lesson-example: 
+title: The title
+---
+
+
+
 
 Index page
 
-{% include footer.html %}
+
