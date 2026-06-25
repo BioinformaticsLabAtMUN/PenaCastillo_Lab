@@ -1,3 +1,4 @@
+{% include navigation.html %}
 # PenaCastillo_Lab
 
 Repo for learning how to make websites.  *Italics*   **bold**
